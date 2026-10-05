@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.log
+proxies.txt
+proxies_live.txt
+combo.txt
+number4_hits.txt
+*.session
+.DS_Store
+Thumbs.db
